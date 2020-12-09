@@ -151,6 +151,7 @@
 .w_shop_105_left_box > a:hover {
     color: #ffffff;
     background: rgb(46, 46, 46);
+    transition: all .2s ease-in-out;
 }
 
 .w_shop_105_right_box {
