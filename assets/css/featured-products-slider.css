@@ -1,0 +1,378 @@
+#w_shop_105, #w_shop_105 > .carousel-inner, #w_shop_105 > .carousel-inner > .carousel-item {
+    overflow: hidden;
+}
+
+#w_shop_105 {
+    position: relative;
+    padding: 89px 30px;
+    background: #e0e0e0;
+}
+
+#w_shop_105:hover {
+    cursor: -moz-grab;
+    cursor: -webkit-grab;
+}
+
+#w_shop_105:active {
+    cursor: -moz-grabbing;
+    cursor: -webkit-grabbing;
+}
+
+#w_shop_105 > .carousel-inner {
+    margin: auto;
+}
+
+#w_shop_105 > .carousel-inner > .carousel-item > img, #w_shop_105 > .carousel-inner > .carousel-item > a > img {
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+
+.w_shop_105_main_header {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin: auto;
+    display: block;
+    text-align: center;
+    position: relative;
+    margin: 0 0 50px 0;
+}
+
+.w_shop_105_indicators > .carousel-indicators {
+    left: 0;
+    right: 0;
+    top: auto;
+    width: 90%;
+    bottom: 5px;
+    height: 30px;
+    margin: auto;
+    padding: 3px 5px;
+    display: block;
+    overflow-x: auto;
+    overflow-y: hidden;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.w_shop_105_indicators > .carousel-indicators li:before, .w_shop_105_indicators > .carousel-indicators li:after {
+    display: none;
+}
+
+.w_shop_105_indicators > .carousel-indicators li {
+    padding: 0;
+    width: 15px;
+    height: 15px;
+    border: none;
+    margin: 0 2px;
+    text-indent: 0;
+    cursor: pointer;
+    overflow: hidden;
+    background: #767676;
+    display: inline-block;
+    -webkit-border-radius: 100%;
+    border-radius: 100%;
+    -webkit-transition: all cubic-bezier(0.22, 0.81, 0.01, 0.99) 0.2s;
+    transition: all cubic-bezier(0.22, 0.81, 0.01, 0.99) 0.2s;
+}
+
+.w_shop_105_indicators > .carousel-indicators .active {
+    width: 15px;
+    height: 15px;
+    margin: 0 2px;
+    text-indent: 0;
+    background: #d35400;
+}
+
+.w_shop_105_left_box {
+    top: 20%;
+    left: 3%;
+    width: 30%;
+    padding: 15px;
+    overflow: hidden;
+    position: absolute;
+}
+
+.w_shop_105_left_box > span, .w_shop_105_left_box > h1, .w_shop_105_left_box > p, .w_shop_105_left_box > a {
+    text-shadow: none;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'PT Sans', sans-serif;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-timing-function: cubic-bezier(0.22, 0.81, 0.01, 0.99);
+    animation-timing-function: cubic-bezier(0.22, 0.81, 0.01, 0.99);
+}
+
+.w_shop_105_left_box > span {
+    color: #d35400;
+    font-size: 25px;
+    display: inline-block;
+    -webkit-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+}
+
+.w_shop_105_left_box > h1 {
+    color: #2e2e2e;
+    font-size: 18px;
+    text-transform: uppercase;
+    -webkit-animation-delay: 0.6s;
+    animation-delay: 0.6s;
+    font-family: roboto;
+}
+
+.w_shop_105_left_box > p {
+    color: #2e2e2e;
+    font-size: 13px;
+    margin: 10px 0 15px 0;
+    -webkit-animation-delay: 0.9s;
+    animation-delay: 0.9s;
+}
+
+.w_shop_105_left_box > a {
+    width: 110px;
+    height: 30px;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    background: #d35400;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    -webkit-transition: all 0.6s cubic-bezier(0.22, 0.81, 0.01, 0.99);
+    transition: all 0.6s cubic-bezier(0.22, 0.81, 0.01, 0.99);
+    -webkit-animation-delay: 1.2s;
+    animation-delay: 1.2s;
+    z-index: 1;
+}
+
+.w_shop_105_left_box > a:hover {
+    color: #ffffff;
+    background: rgb(46, 46, 46);
+}
+
+.w_shop_105_right_box {
+    top: 20%;
+    right: 12%;
+    left: auto;
+    position: absolute;
+}
+
+.w_shop_105_right_box > ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.w_shop_105_right_box > ul > li {
+    margin: 5px 0;
+    display: block;
+    color: #2e2e2e;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    padding: 5px 5px 5px 10px;
+    text-shadow: none;
+    -webkit-font-smoothing: antialiased;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-timing-function: cubic-bezier(0.22, 0.81, 0.01, 0.99);
+    animation-timing-function: cubic-bezier(0.22, 0.81, 0.01, 0.99);
+}
+
+.w_shop_105_right_box > ul > li:before {
+    top: 50%;
+    right: 0;
+    bottom: 0;
+    left: -15px;
+    content: "";
+    width: 15px;
+    height: 1px;
+    position: absolute;
+    background: #d35400;
+}
+
+.w_shop_105_right_box > ul > li:nth-child(1) {
+    -webkit-animation-delay: 2s;
+    animation-delay: 2s;
+}
+
+.w_shop_105_right_box > ul > li:nth-child(2) {
+    -webkit-animation-delay: 2.3s;
+    animation-delay: 2.3s;
+}
+
+.w_shop_105_right_box > ul > li:nth-child(3) {
+    -webkit-animation-delay: 2.6s;
+    animation-delay: 2.6s;
+}
+
+.w_shop_105_right_box > ul > li:nth-child(4) {
+    -webkit-animation-delay: 2.9s;
+    animation-delay: 2.9s;
+}
+
+.w_shop_105_right_box > ul > li:nth-child(5) {
+    -webkit-animation-delay: 3.1s;
+    animation-delay: 3.1s;
+}
+
+@media only screen and (max-width: 480px) {
+    #w_shop_105 {
+        padding: 40px 5px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #w_shop_105 > .carousel-inner > .carousel-item > img, #w_shop_105 > .carousel-inner > .carousel-item > a > img {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .w_shop_105_main_header {
+        margin-bottom: 25px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .w_shop_105_indicators > .carousel-indicators {
+        bottom: 0;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .w_shop_105_left_box {
+        top: 0;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        position: relative;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .w_shop_105_right_box {
+        top: 0;
+        left: 0;
+        right: 0;
+        text-align: center;
+        position: relative;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .w_shop_105_right_box > ul > li:before {
+        left: 10%;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    #w_shop_105 {
+        padding: 60px 5px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    #w_shop_105 > .carousel-inner > .carousel-item > img, #w_shop_105 > .carousel-inner > .carousel-item > a > img {
+        width: 50%;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .w_shop_105_left_box {
+        top: 0;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        position: relative;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .w_shop_105_right_box {
+        top: 0;
+        left: 0;
+        right: 0;
+        text-align: center;
+        position: relative;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .w_shop_105_right_box > ul > li:before {
+        left: 30%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    #w_shop_105 {
+        padding: 89px 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    #w_shop_105 > .carousel-inner > .carousel-item > img, #w_shop_105 > .carousel-inner > .carousel-item > a > img {
+        width: 25%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .w_shop_105_left_box {
+        top: 5%;
+        left: 3%;
+        width: 35%;
+        padding: 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .w_shop_105_left_box > span {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .w_shop_105_left_box > h1 {
+        margin: 5px;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .w_shop_105_left_box > p {
+        font-size: 11px;
+        margin: 5px 0 10px 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .w_shop_105_right_box {
+        top: 0;
+        right: 5%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1225px) {
+    .w_shop_105_left_box {
+        top: 10%;
+    }
+}
+
+.ps_easeOutInCubic .carousel-item {
+    -webkit-transition-timing-function: cubic-bezier(0.22, 0.81, 0.01, 0.99);
+    transition-timing-function: cubic-bezier(0.22, 0.81, 0.01, 0.99);
+}
+
+#latest h2::after {
+    background-color: #d35400;
+    width: 100px;
+    height: 3px;
+    display: block;
+    content: '';
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+}
+
