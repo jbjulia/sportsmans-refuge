@@ -1,0 +1,25 @@
+.bs-icon {
+    --bs-icon-size: .75rem;
+    display: flex;
+    flex-shrink: 0;
+    justify-content: center;
+    align-items: center;
+    font-size: var(--bs-icon-size);
+    width: calc(var(--bs-icon-size) * 2);
+    height: calc(var(--bs-icon-size) * 2);
+    color: var(--bs-primary);
+}
+
+.bs-icon-xl {
+    --bs-icon-size: 2.5rem;
+}
+
+.bs-icon.bs-icon-primary {
+    color: var(--bs-white);
+    background: var(--bs-primary);
+}
+
+.bs-icon.bs-icon-circle {
+    border-radius: 50%;
+}
+
