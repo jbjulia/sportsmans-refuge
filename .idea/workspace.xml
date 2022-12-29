@@ -1,51 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8919c1a-cf85-4c95-9a90-aea46a92bfae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/attachments/3D-Big-East-Challenge-Shoots.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/attachments/Kids-3D-Shoots.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/attachments/Spot-Shoots.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/attachments/Team-Techno.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/attachments/TechnoHunt-March-Madness.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/attachments/Wednesday-3D-Fun-Shoots.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/animated-filterable-gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/animated-filterable-gallery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/animated-services.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/animated-services.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/dark-footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/dark-footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/divider-text-middle.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/divider-text-middle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/featured-products-slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/featured-products-slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/modern-contact-form.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/modern-contact-form.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bear.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/black-eagle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/boss-buck.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/carbon-express.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/cbe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/centerpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/easton.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/elite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gold-tip.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/hoyt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/mathews.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/millennium.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/mission.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/qad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/rambo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/range.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/ravin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/sportsmans-refuge.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/spot-hogg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/target.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/techno-hunt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/tenpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/wicked-ridge.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/animated-filterable-gallery-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/animated-filterable-gallery-1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/animated-filterable-gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/animated-filterable-gallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/bs-init.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bs-init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/business-hours.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/business-hours.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/featured-products-slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/featured-products-slider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/grayscale.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/smart-forms.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/smart-forms.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="9b8c56ee-4cda-46f6-96f4-8efe539664de" name="Changes" comment="Updated assets">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sportsmans-refuge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sportsmans-refuge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,34 +14,62 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2JbKbyMfEfKEh2d8y6QjnnwwylB" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JbMkyKDnknF098LPOeHui7nhsY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e8919c1a-cf85-4c95-9a90-aea46a92bfae" name="Changes" comment="" />
-      <created>1672341417214</created>
+      <changelist id="9b8c56ee-4cda-46f6-96f4-8efe539664de" name="Changes" comment="" />
+      <created>1672342476263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1672341417214</updated>
-      <workItem from="1672341418541" duration="5000" />
-      <workItem from="1672341465680" duration="7000" />
-      <workItem from="1672341480057" duration="79000" />
+      <updated>1672342476263</updated>
+      <workItem from="1672342478107" duration="372000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated assets">
+      <created>1672342622149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672342622149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated assets" />
   </component>
 </project>
